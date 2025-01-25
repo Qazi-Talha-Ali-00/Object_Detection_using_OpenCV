@@ -1,5 +1,5 @@
 #Import relevant modules
-import cv2
+import cvp2
 import numpy as np
 import os
 
